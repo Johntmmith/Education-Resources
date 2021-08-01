@@ -8,8 +8,8 @@ We understand the importance of taking notes during class. So we have chosen top
 <table>
 <thead>
 	<tr>
-		<td>Learning Term</td>
-		<td>Website Explaining this Term</td>
+		<th>Learning Term</th>
+		<th>Website Explaining this Term</th>
 	</tr>
 </thead>
 <tbody>
