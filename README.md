@@ -17,5 +17,29 @@ We understand the importance of taking notes during class. So we have chosen top
 		<td>Accounts Receivable</td>
 		<td>https://bench.co/blog/accounting/accounts-receivable/</td>
 	</tr>
+	<tr>
+		<td>Liabilities</td>
+		<td>https://corporatefinanceinstitute.com/resources/knowledge/finance/liability/</td>
+	</tr>
+	<tr>
+		<td>Feasibility Study</td>
+		<td>https://www.businessstudynotes.com/finance/project-management/types-feasibility-study/</td>
+	</tr>
+	<tr>
+		<td>Owner's Equity</td>
+		<td>https://corporatefinanceinstitute.com/resources/knowledge/finance/liability/</td>
+	</tr>
+	<tr>
+		<td>ROI</td>
+		<td>https://investinganswers.com/dictionary/r/return-investment-roi/</td>
+	</tr>
+	<tr>
+		<td>Balance Sheet</td>
+		<td>https://www.apaservices.org/practice/business/finances/balance-sheet</td>
+	</tr>
+	<tr>
+		<td>Depreciation</td>
+		<td>https://www.accountingtools.com/articles/2017/9/20/depreciation</td>
+	</tr>
 </tbody>
 </table>
